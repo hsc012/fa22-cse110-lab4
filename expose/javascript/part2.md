@@ -32,7 +32,7 @@
     E. false; because true is converted to 1, and 1 != 2.
     F. true; because Boolean(2) converts to true since it is not a NaN or 0.
 15. == compares values while === compares both values and the data types. In cases where types of operands are different, == converts types before comparison while === simply compares the data types.
-16. [](part2-question16.js)
+16. [part2-question16.js](part2-question16.js)
 17. [2,4,6], because in `modifyArray()`, every value of `array`, which contains [1,2,3], is put in `doSomething()`, and the returned value is then pushed to `newArr`.
-18. [](part2-question18.js)
+18. [part2-question18.js](part2-question18.js)
 19. 1 4 3 2
